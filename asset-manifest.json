@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-jenkins-try/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-jenkins-try/static/js/main.33ae5224.chunk.js",
+    "main.js.map": "/react-jenkins-try/static/js/main.33ae5224.chunk.js.map",
+    "runtime-main.js": "/react-jenkins-try/static/js/runtime-main.31355894.js",
+    "runtime-main.js.map": "/react-jenkins-try/static/js/runtime-main.31355894.js.map",
+    "static/js/2.f31df899.chunk.js": "/react-jenkins-try/static/js/2.f31df899.chunk.js",
+    "static/js/2.f31df899.chunk.js.map": "/react-jenkins-try/static/js/2.f31df899.chunk.js.map",
+    "static/js/3.46b6ad50.chunk.js": "/react-jenkins-try/static/js/3.46b6ad50.chunk.js",
+    "static/js/3.46b6ad50.chunk.js.map": "/react-jenkins-try/static/js/3.46b6ad50.chunk.js.map",
+    "index.html": "/react-jenkins-try/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-jenkins-try/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f31df899.chunk.js.LICENSE.txt": "/react-jenkins-try/static/js/2.f31df899.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-jenkins-try/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31355894.js",
+    "static/js/2.f31df899.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.33ae5224.chunk.js"
+  ]
+}
